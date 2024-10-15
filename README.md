@@ -20,6 +20,16 @@ a **nice**
 
 <br>
 
+<!-- 링크 -->
+[순천향대학교](http://sch.ac.kr)
+
+<!--  이미지 -->
+![로고] (http://home.sch.ac.kr/_res/sch/img/logo_link2.png)
+<img src="https://home.sch.ac.kr/_res/sch/img/logo_link2.png" width="100px"></img>
+
+<!-- 표 -->
+|야채|과일|고기|
+
 <!--
 **Taein5415/Taein5415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
