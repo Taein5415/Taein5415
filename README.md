@@ -34,22 +34,22 @@ a **nice**
 |오이|바나나|소|
 
 <!-- 코드 -->
-코드 1: \#include <iostream>\입니다.<br>
+코드 1: `#include <iostream>`입니다.<br>
 코드2 : :
-''' c++
+``` c++
 #include <iostream>
 int main(){
 return 0;
 }
-'''
+```
 
 코드3:
-'''
+```
 #include <iostream>
 int main(){
 return 0;
 }
-'''
+```
 
 <!--
 **Taein5415/Taein5415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
