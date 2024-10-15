@@ -29,6 +29,9 @@ a **nice**
 
 <!-- 표 -->
 |야채|과일|고기|
+|:--|--:|:--:|
+|아스파라거스|배|닭고기|
+|오이|바나나|소|
 
 <!--
 **Taein5415/Taein5415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
