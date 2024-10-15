@@ -8,9 +8,17 @@
 ***
 <hr>
 
-*하나
-+둘
--셋
+* 하나
++ 둘
+- 셋
+1. one
+2. two
+
+~~Have~~
+a **nice**
+*Day*
+
+<br>
 
 <!--
 **Taein5415/Taein5415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
